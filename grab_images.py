@@ -1,8 +1,5 @@
-import sys
-
 from argparse import ArgumentParser
 
-from keyboard_handler.keyboard_reader import get_pressed_key
 from screenshot_handler.screen_grabber import ScreenGrabber
 
 def read_arguments():
