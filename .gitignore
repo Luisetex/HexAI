@@ -1,6 +1,9 @@
 # DS Store
 .DS_Store
 
+# Jupyter Notebooks
+*.ipynb
+
 # Images folder
 images/
 
