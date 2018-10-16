@@ -1,6 +1,9 @@
 # DS Store
 .DS_Store
 
+# Models
+*.model
+
 # Jupyter Notebooks
 *.ipynb
 
