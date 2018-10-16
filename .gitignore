@@ -4,8 +4,9 @@
 # Jupyter Notebooks
 *.ipynb
 
-# Images folder
-images/
+# Images
+*.jpg
+*.png
 
 #Vscode Settings
 .vscode/
